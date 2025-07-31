@@ -30,8 +30,6 @@ Go through the website and find vulnerabilities that could reveal the flag.
 
 ### Tools / Techniques
 
-List tools or concepts used. For example:
-
 - `HTTP Cookies`
 - `DevTools`
 
